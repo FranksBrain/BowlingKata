@@ -20,7 +20,8 @@ The goal of this kata is to use a test driven design (TDD) approach to successfu
   * roll(int pins) each time a ball is rolled
   * int Score() is called at the end of the game to give a total score
 
-# Hints (don't read this if you don't want spoilers!)
+# Hints
+### (don't read this if you don't want spoilers!)
 At a minimum you'll want to use the following tests:
 * Test for all gutterballs (knocked down 0 pins for the entire game.  Total Score == 0)
 * Test for knocking down 1 pin each time (Total Score == 20)
