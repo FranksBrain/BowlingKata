@@ -2,7 +2,6 @@
 {
     internal class Game
     {
-        //private int score = 0;
         private int[] rolls = new int[21];
         private int[] frame = new int[10];
         int currentRoll = 0;
